@@ -1,0 +1,9 @@
+public class HelloWorld {
+  public static void main(String[] args) {
+    System.out.println("Yerrr, #relaunchcam mf");
+    
+   int a = 5
+   int b = 4
+   
+   System.out.printf(" the total is" , a);
+   
